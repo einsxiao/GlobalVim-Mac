@@ -1,6 +1,6 @@
 # GlobalVim
 
-二进制dmg包: [GlobolVim.dm](https://github.com/einsxiao/GlobalVim-Mac/blob/master/GlobalVim.dmg)
+二进制dmg包: [GlobolVim.dm](https://github.com/einsxiao/GlobalVim-Mac/blob/master/GlobalVim.dmg?raw=true)
 
 程序键盘监听需要额外权限, 使用python可以使用root权限, 而二进制安装需要将程序添加到 System Preferences > Security & Privacy > Privacy > Accessibility 列表中.
 
