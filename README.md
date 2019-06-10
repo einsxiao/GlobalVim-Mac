@@ -1,6 +1,8 @@
 # GlobalVim
 
-二进制dmg包: 
+二进制dmg包: [GlobolVim.dm](https://github.com/einsxiao/GlobalVim-Mac/blob/master/GlobalVim.dmg)
+
+程序键盘监听需要额外权限, 使用python可以使用root权限, 而二进制安装需要将程序添加到 System Preferences > Security & Privacy > Privacy > Accessibility 列表中.
 
 GlobalVim能让您在任意环境下使用vim模式编辑。强大易用的GeeKey热键方案能提供丰富灵活的键盘定制和键盘编程能力，让您从从容处理大量的重复输入/操作。
 
