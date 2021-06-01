@@ -117,7 +117,7 @@ six==1.12.0
 sortedcontainers==2.1.0
 Twisted==19.2.0
 txAMQP==0.8.2
-urllib3==1.25.2
+urllib3==1.26.5
 virtualenv==16.6.0
 wxPython==4.0.6
 zope.interface==4.6.0
